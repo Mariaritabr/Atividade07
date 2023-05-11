@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+h1{
+font-family:"Playfair Display";
+font-size:x-large;
+font-weight: 600;
+color: red;
+text-align:center;
+}
+
+p{
+    font-size: medium;
+    font-style:normal;
+    font-family:"Playfair Display";
+    text-align: center;
+    
+}
+
+h3{
+    font-size: medium;
+    font-style:normal;
+    font-family:"Playfair Display";
+    text-align: center;
+    color:rgb(2, 0, 139);
+    text-decoration:overline;
+    text-transform: capitalize;
+}
+
+.img1{
+width: 16%;
+display: block;
+margin: auto;
+}
+
+p{
+ text-align:center;
+ font-size: medium;
+}
+
+h3{
+    font-size: medium;
+    font-style:normal;
+    font-family:"Playfair Display";
+    text-align: center;
+}
+
+
+.img2{
+    width:20%;   
+    display: block;
+    margin: auto;
+}
+
+.img3{
+    width:20%;   
+    display: block;
+    margin: auto;
+}
+
+.img4{
+    width:16%;
+    display: block;
+    margin: auto;
+}
+
+
